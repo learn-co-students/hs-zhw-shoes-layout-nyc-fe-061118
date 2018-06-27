@@ -24,15 +24,19 @@
 
 /* Posititoning Classes */
 
+#holiday_sale {
+  margin-bottom: 20px;
+}
+
 #featured-brands {
-  width: 65.3%;
+  width: 65.9%;
   margin-right: 10px;
   float: left;
 }
 
 #shoe-archive {
   display: inline-block;
-  width: 32.6%;
+  width: 32.0%;
   margin-left: 10px;
   margin-bottom: 20px;
 }
